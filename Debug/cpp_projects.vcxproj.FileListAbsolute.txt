@@ -1,2 +1,0 @@
-E:\C++Project\cpp_projects\Debug\cpp_projects.exe
-E:\C++Project\cpp_projects\Debug\cpp_projects.pdb
