@@ -1,2 +1,4 @@
-﻿  cpp_test.cpp
+﻿  main.cpp
+  cpp_test.cpp
+  Generating Code...
   cpp_test.vcxproj -> \\Mac\Home\Documents\GitHub\cpp_projects\cpp_test\Debug\cpp_test.exe
