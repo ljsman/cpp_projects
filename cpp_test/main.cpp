@@ -1,11 +1,12 @@
 // cpp_test.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
-#include <iostream>
+#include "cpp_test.h"
 
 
 int main()
 {
+    cpp_test_main();
     std::cout << "Hello World!\n";
     
 }
