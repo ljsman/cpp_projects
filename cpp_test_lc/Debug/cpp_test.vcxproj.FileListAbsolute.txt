@@ -1,0 +1,4 @@
+\\Mac\Home\Documents\GitHub\cpp_projects\cpp_test\Debug\cpp_test_lc.exe
+\\Mac\Home\Documents\GitHub\cpp_projects\cpp_test\Debug\cpp_test_lc.pdb
+\\Mac\Home\Documents\GitHub\cpp_projects\cpp_test_lc\Debug\cpp_test_lc.exe
+\\Mac\Home\Documents\GitHub\cpp_projects\cpp_test_lc\Debug\cpp_test_lc.pdb
