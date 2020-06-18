@@ -1,6 +1,6 @@
 #pragma once
-#ifndef LINKED_LIST_H
-#define LINKED_LIST_H
+//#ifndef LINKED_LIST_H
+//#define LINKED_LIST_H
 
 template <class T>
 struct Node
@@ -27,4 +27,4 @@ public:
 	void set_head(Node<T>*);
 };
 
-#endif // !LINKED_LIST_H
+//#endif // !LINKED_LIST_H

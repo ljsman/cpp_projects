@@ -1,6 +1,6 @@
 #pragma once
-#ifndef LEET_CODE_H
-#define LEET_CODE_H
+//#ifndef LEET_CODE_H
+//#define LEET_CODE_H
 #include <iostream>
 class leet_code
 {
@@ -11,5 +11,5 @@ public:
 	void linked_list_stuff();
 	void vector_stuff();
 };
-#endif // !LEET_CODE_H
+//#endif // !LEET_CODE_H
 
