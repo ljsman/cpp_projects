@@ -1,2 +1,12 @@
-﻿  main.cpp
-  cpp_test.vcxproj -> \\Mac\Home\Documents\GitHub\cpp_projects\cpp_test_lc\Debug\cpp_test_lc.exe
+﻿  leet_code.cpp
+  linked_list.cpp
+E:\C++Project\cpp_projects\cpp_test_lc\linked_list.cpp(40,29): error C2955: 'linked_list': use of class template requires template argument list
+E:\C++Project\cpp_projects\cpp_test_lc\linked_list.h(22): message : see declaration of 'linked_list'
+E:\C++Project\cpp_projects\cpp_test_lc\linked_list.cpp(40,19): error C2955: 'linked_list': use of class template requires template argument list
+E:\C++Project\cpp_projects\cpp_test_lc\linked_list.h(22): message : see declaration of 'linked_list'
+E:\C++Project\cpp_projects\cpp_test_lc\linked_list.cpp(41,1): error C2509: 'print_list': member function not declared in 'linked_list'
+E:\C++Project\cpp_projects\cpp_test_lc\linked_list.h(22): message : see declaration of 'linked_list'
+  main.cpp
+  cpp_test.cpp
+  matrix.cpp
+  Generating Code...
