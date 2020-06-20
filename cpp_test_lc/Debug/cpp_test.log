@@ -1,7 +1,4 @@
 ﻿  leet_code.cpp
-E:\C++Project\cpp_projects\cpp_test_lc\linked_list_fwd.h(7,63): warning C4667: 'Node<std::string> operator ++(Node<std::string> &,int)': no function template defined that matches forced instantiation
   linked_list.cpp
-E:\C++Project\cpp_projects\cpp_test_lc\linked_list_fwd.h(7,63): warning C4667: 'Node<std::string> operator ++(Node<std::string> &,int)': no function template defined that matches forced instantiation
   Generating Code...
-leet_code.obj : error LNK2019: unresolved external symbol "struct Node<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > __cdecl operator++(struct Node<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > &,int)" (??E@YA?AU?$Node@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@@AAU0@H@Z) referenced in function "public: void __thiscall leet_code::linked_list_stuff(void)" (?linked_list_stuff@leet_code@@QAEXXZ)
-E:\C++Project\cpp_projects\cpp_test_lc\Debug\cpp_test_lc.exe : fatal error LNK1120: 1 unresolved externals
+  cpp_test.vcxproj -> E:\C++Project\cpp_projects\cpp_test_lc\Debug\cpp_test_lc.exe
