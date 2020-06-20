@@ -10,5 +10,5 @@ Node<T> operator++ (Node<T>& node, int)
 	return tmp;
 }
 
-template Node<std::string> operator++(Node<std::string>&, int);
+//template Node<std::string> operator++(Node<std::string>&, int);
 

@@ -53,3 +53,4 @@ void linked_list<T>::set_head(Node<T>* arg_head)
 }
 
 template struct Node<std::string>;
+template struct Node<int>;
