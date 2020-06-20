@@ -14,7 +14,10 @@ public:
 };
 
 template <class T>
-inline Node<T> operator++ (Node<T>&, int);
+inline Node<T>& operator++ (Node<T>&, int);//post
+
+template <class T>
+inline Node<T>& operator++(Node<T>&);
 
 template <class T>
 class linked_list
