@@ -1,16 +1,16 @@
-#include "linked_list.h"
+#include "linked_list_inline.h"
+
 #include <iostream>
 
 template <class T>
-Node<T> operator++ (Node<T>& node, int)
-{
-	auto tmp{ node };
-	node = *node.next_node;
-	return tmp;
-}
+Node<T>::Node(Node<T>* ptr, T data) : next_node{ ptr }, data{ data }
+{};
 
 template <class T>
-void linked_list<T>::reverse(Node<T>* head)
+Node<T>::Node() : next_node{}, data{}{};
+
+template <class T>
+void reverse(Node<T>* head)
 {
 	if (!head)
 	{
@@ -36,8 +36,8 @@ void linked_list<T>::reverse(Node<T>* head)
 	}
 }
 
-
-void linked_list::print_list(Node* head)
+template <class T>
+void print_list(Node<T>* head)
 {
 	while (head)
 	{
@@ -49,5 +49,7 @@ void linked_list::print_list(Node* head)
 template <class T>
 void linked_list<T>::set_head(Node<T>* arg_head)
 {
-	//this->head = arg_head;
+	this->head = arg_head;
 }
+
+template struct Node<std::string>;

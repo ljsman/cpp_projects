@@ -1,20 +1,20 @@
 #include "leet_code.h"
 #include <iostream>
 #include <vector>
-#include <array>
+
 #include "matrix.h"
-#include "linked_list.h"
+#include "linked_list_interface.h"
 #include <string>
-using namespace std;
+
 
 void leet_code::linked_list_stuff()
 {
-	Node<string> first, second, third, forth, fifth;
+	Node<std::string> first, second, third, forth, fifth;
 	first = { &second, "Jinshi" };
 	second = { &third, "Li" };
 	third = { &forth, "DePaul" };
 	forth = { nullptr, "University" };
-	//first++;
+	first++;
 	//ll.print_list(&first);
 	//ll.set_head(&first);
 	//linked_list<string>::reverse(&first);
@@ -30,7 +30,7 @@ void leet_code::vector_stuff()
 	//	{7, 8, 9}
 	//};
 	matrix mtx;
-	vector<vector<int>> matrix
+	std::vector<std::vector<int>> matrix
 	{
 		{1,  2,  3,  4,   5},
 		{6,  7,  8,  9,  10},

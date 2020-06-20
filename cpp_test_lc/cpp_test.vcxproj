@@ -149,7 +149,10 @@
   <ItemGroup>
     <ClInclude Include="cpp_test.h" />
     <ClInclude Include="leet_code.h" />
-    <ClInclude Include="linked_list.h" />
+    <ClInclude Include="linked_list_inline.h" />
+    <ClInclude Include="linked_list_interface.h" />
+    <ClInclude Include="linked_list_fwd.h" />
+    <ClInclude Include="linked_list_ns.h" />
     <ClInclude Include="matrix.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
