@@ -8,7 +8,7 @@
 #endif  
 
 #include "cpp_test.h"
-#include "leet_code.h"
+#include "leet_code_interface.h"
 
 int main()
 {

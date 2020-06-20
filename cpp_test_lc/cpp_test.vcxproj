@@ -148,7 +148,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="cpp_test.h" />
-    <ClInclude Include="leet_code.h" />
+    <ClInclude Include="leet_code_interface.h" />
+    <ClInclude Include="leet_code_fwd.h" />
     <ClInclude Include="linked_list_inline.h" />
     <ClInclude Include="linked_list_interface.h" />
     <ClInclude Include="linked_list_fwd.h" />

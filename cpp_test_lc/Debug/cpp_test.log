@@ -1,3 +1,2 @@
-﻿  linked_list.cpp
-\\Mac\Home\Documents\GitHub\cpp_projects\cpp_test_lc\linked_list_inline.h(10): warning C4172: returning address of local variable or temporary: tmp
+﻿  main.cpp
   cpp_test.vcxproj -> \\Mac\Home\Documents\GitHub\cpp_projects\cpp_test_lc\Debug\cpp_test_lc.exe
