@@ -1,5 +1,5 @@
 #include "linked_list_inline.h"
-
+#include "object_base_fwd.h"
 #include <iostream>
 
 template <class T>
@@ -54,3 +54,4 @@ void linked_list<T>::set_head(Node<T>* arg_head)
 
 template struct Node<std::string>;
 template struct Node<int>;
+template struct Node <object_base>;
