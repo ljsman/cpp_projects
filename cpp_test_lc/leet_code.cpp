@@ -15,7 +15,7 @@ void leet_code::linked_list_stuff()
 	third = { &forth, "DePaul" };
 	forth = { nullptr, "University" };
 	Node<int> first_int;
-	//first++;
+	first++;
 	//ll.print_list(&first);
 	//ll.set_head(&first);
 	//linked_list<string>::reverse(&first);
