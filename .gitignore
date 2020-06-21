@@ -1,4 +1,8 @@
 
 cpp_test_lc/.vs/
 
+<<<<<<< HEAD
 .DS_Store
+=======
+cpp_test/
+>>>>>>> linked_list
