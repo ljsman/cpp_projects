@@ -145,6 +145,7 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="cpp_test.cpp" />
     <ClCompile Include="matrix.cpp" />
+    <ClCompile Include="object_base.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="cpp_test.h" />
@@ -154,6 +155,8 @@
     <ClInclude Include="linked_list_fwd.h" />
     <ClInclude Include="linked_list_ns.h" />
     <ClInclude Include="matrix.h" />
+    <ClInclude Include="object_base_fwd.h" />
+    <ClInclude Include="object_base_interface.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

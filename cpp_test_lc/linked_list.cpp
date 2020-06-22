@@ -1,5 +1,5 @@
 #include "linked_list_inline.h"
-#include "object_base_fwd.h"
+#include "object_base_interface.h"
 #include <iostream>
 
 template <class T>

@@ -1,2 +1,5 @@
 ﻿  linked_list.cpp
-  cpp_test.vcxproj -> \\Mac\Home\Documents\GitHub\cpp_projects\cpp_test_lc\Debug\cpp_test_lc.exe
+  main.cpp
+  object_base.cpp
+  Generating Code...
+  cpp_test.vcxproj -> E:\C++Project\cpp_projects\cpp_test_lc\Debug\cpp_test_lc.exe
