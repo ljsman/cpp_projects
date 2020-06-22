@@ -1,6 +1,6 @@
 //Jinshi Copy Right 2020
 #ifndef TEST
-#define TEST 0
+#define TEST 1
 #endif  
 
 #ifndef LC
