@@ -10,7 +10,7 @@
 #include "boost/algorithm/algorithm.hpp"
 #include "cpp_test.h"
 #include "leet_code.h"
-
+using namespace std;
 int main()
 {
 

@@ -33,7 +33,7 @@
     <ClInclude Include="linked_list_inline.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="linked_list_ns.h">
+    <ClInclude Include="namespace_file.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
